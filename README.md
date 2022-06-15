@@ -1,70 +1,26 @@
-# Getting Started with Create React App
+# Movies 🎬
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Movies is a project that allows you to search movies and tv shows using the TMDB's API :mag_right:
 
-## Available Scripts
+## Introduction
 
-In the project directory, you can run:
+Movies is a single-page app created using React and React Router.
+The app performs a search using the [TMDB's API](https://www.themoviedb.org/documentation/api) displays the title, actors, description, rating and  have a link to the trailer on Youtube.
 
-### `npm start`
+## Library used
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- [axios](https://www.npmjs.com/package/axios) - A promise-based HTTP client for the browser and Node.js.
+- [react](https://www.npmjs.com/package/react) - A JavaScript library for creating user interfaces. :electron:
+- [react-dom](https://www.npmjs.com/package/react-dom) - The entry point to the DOM and server renderers for React.
+- [react-router-dom](https://www.npmjs.com/package/react-router-dom) - DOM bindings for React Router.
+- [react-scripts](https://www.npmjs.com/package/react-scripts) - Includes scripts and configuration used by Create React App.
+- [MUI](https://mui.com/) - provides a robust, customizable, and accessible library of foundational and advanced components, enabling you to build your design system and develop React applications faster.
+- [styled-components](https://www.npmjs.com/package/styled-components) - Visual primitives for the component age :nail_care:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## How to run
 
-### `npm test`
+Use [this link](https://margaretkulinich.github.io/movies) to run the app.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## License
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+There is no any license for it. You can use any data from this repo if you want so :wink:
