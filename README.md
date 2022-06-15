@@ -5,7 +5,7 @@ Movies is a project that allows you to search movies and tv shows using the TMDB
 ## Introduction
 
 Movies is a single-page app created using React and React Router.
-The app performs a search using the [TMDB's API](https://www.themoviedb.org/documentation/api) displays the title, actors, description, rating and  have a link to the trailer on Youtube.
+The app performs a search using the [TMDB's API](https://www.themoviedb.org/documentation/api) displays the title, actors, description, rating and  have a link to the trailer on Youtube. Moreover, you can sort by genre in collection of movies or tv shows.
 
 ## Library used
 
